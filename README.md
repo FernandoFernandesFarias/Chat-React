@@ -64,5 +64,8 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 ## 👨‍💻 Autor
 
 **Fernando Farias**
+**Thiago Colombo**
 
 -   GitHub: [@FernandoFernandesFarias](https://github.com/FernandoFernandesFarias)
+-   GitHub: [@Thiago-moliner](https://github.com/Thiago-moliner)
+
